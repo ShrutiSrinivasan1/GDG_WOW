@@ -4,7 +4,7 @@ Welcome to the GDG WOW Pune Workshop repository! This is a dedicated space for r
 
 ## About GDG WOW Pune
 
-GDG WOW (Women of Worth) Pune aims to create a supportive community for women in technology, providing opportunities for learning, networking, and professional development. Our mission is to empower women technologists and increase diversity in the tech industry.
+GDG WOW Pune aims to create a supportive community for women in technology, providing opportunities for learning, networking, and professional development. Our mission is to empower women technologists and increase diversity in the tech industry.
 
 ## Workshop Contents
 
