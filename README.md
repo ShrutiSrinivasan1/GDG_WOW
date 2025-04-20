@@ -1,19 +1,19 @@
-# GDG WOW (Women of Worth)
+# GDG WOW Pune Workshop
 
-Welcome to the GDG WOW repository! This is a dedicated space for resources, projects, and materials related to Google Developer Groups' "Women of Worth" initiative.
+Welcome to the GDG WOW Pune Workshop repository! This is a dedicated space for resources, code samples, and materials related to the Google Developer Group Women of Worth workshop in Pune.
 
-## About GDG WOW
+## About GDG WOW Pune
 
-GDG WOW (Women of Worth) aims to create a supportive community for women in technology, providing opportunities for learning, networking, and professional development. Our mission is to empower women technologists and increase diversity in the tech industry.
+GDG WOW (Women of Worth) Pune aims to create a supportive community for women in technology, providing opportunities for learning, networking, and professional development. Our mission is to empower women technologists and increase diversity in the tech industry.
 
-## Repository Contents
+## Workshop Contents
 
 This repository serves as a central hub for:
-- Event materials and presentations
+- Workshop materials and presentations
 - Code samples and projects
-- Community resources
-- Learning paths and tutorials
-- Success stories and case studies
+- Hands-on exercises
+- Additional resources and references
+- Post-workshop information
 
 ## Getting Started
 
@@ -33,4 +33,4 @@ We are committed to providing a welcoming and inclusive environment. All partici
 
 ---
 
-*This repository is maintained by the GDG WOW community and is not an official Google product.*
+*This repository is maintained by the GDG WOW Pune community and is not an official Google product.*
